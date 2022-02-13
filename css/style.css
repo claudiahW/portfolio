@@ -6,10 +6,10 @@
 
 /* Custom Properties */
 :root {
-  --ff-primary: "Source  Sans Pro", sans-serif;
-  --ff-secondary: "Source  Code Pro", monospace;
+  --ff-primary: 'Source  Sans Pro', sans-serif;
+  --ff-secondary: 'Source  Code Pro', monospace;
 
-  --fw-reg: 300;
+  --fw-reg: 301;
   --fw-bold: 900;
 
   --clr-light: #fff;
